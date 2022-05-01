@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.la2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Telper"
+
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.La2">
+        <activity
+            android:name=".ScheduleDelete"
+            android:exported="false" />
+        <activity
+            android:name=".AddSchedule"
+            android:exported="false" />
+        <activity
+            android:name=".Schedule"
+            android:exported="false" />
+        <activity
+            android:name=".addLesson"
+            android:exported="false" />
+        <activity
+
+            android:name=".Lessons"
+            android:exported="false" />
+        <activity
+            android:name=".Students"
+            android:exported="false" />
+        <activity
+            android:name=".addStudent"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">la2</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="age">Возраст</string>
+    <string name="parentName">Имя родителя</string>
+    <string name="ParentPhone">Телефон родителя</string>
+    <string name="addOne">Добавить</string>
+    <string name="ok">ok</string>
+    <string name="Cancel">Отмена</string>
+    <string name="Students">Ученики</string>
+    <string name="id" />
+    <string name="ID">id</string>
+    <string name="Lessons">Занятия</string>
+    <string name="Date">Дата</string>
+    <string name="Time">Время</string>
+    <string name="spinner">spinne</string>
+    <string name="DateHint">ДД:ММ:ГГГГ</string>
+    <string name="TimeFull">ЧЧ:ММ</string>
+    <string name="Menu">Меню</string>
+    <string name="Schedule">Расписание</string>
+    <string name="Monday">Понедельник</string>
+    <string name="Tusday">Вторник</string>
+    <string name="Wednesday">Среда</string>
+    <string name="Thursday">Четверг</string>
+    <string name="Friday">Пятница</string>
+    <string name="Saturday">Суббота</string>
+    <string name="Sunday">Воскресенье</string>
+    <string name="Back">Назад</string>
+    <string name="Day">День</string>
+</resources>
